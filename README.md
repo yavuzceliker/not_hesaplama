@@ -1,6 +1,6 @@
 # nothesaplama
 
-Dinamik Not Hesaplama Uygulaması
+Flutter Dinamik 4'lük Sistem Not Hesaplama Uygulaması
 
 ## Getting Started
 
